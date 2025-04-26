@@ -48,7 +48,7 @@ export default function Home() {
             variants={itemVariants}
             className="mt-6 text-lg leading-8 text-gray-600"
           >
-            Upload your portfolio and connect with professionals worldwide
+            Upload your portfolio and connect with interviewers
           </motion.p>
 
           <motion.div
