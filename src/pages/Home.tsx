@@ -39,9 +39,9 @@ export default function Home() {
             variants={itemVariants}
             className="text-4xl md:text-5xl font-bold tracking-tight text-gray-900"
           >
-            Showcase Your Work to
+            Adsul's Portfolio Portal
             <br />
-            <span className="text-blue-600">The World</span>
+            <span className="text-blue-600">Begin Your Journey</span>
           </motion.h1>
 
           <motion.p
